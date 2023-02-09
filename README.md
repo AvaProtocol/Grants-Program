@@ -109,7 +109,7 @@ The OAK Network Grants Program offers different grant levels to help you best de
    4. The application will be accepted and merged as soon as it receives the required number of approvals (see [levels](#level_slider-levels)), or closed after two weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
    5. 
 4. **Milestone Delivery and Payment**
-   1. Milestones are to be delivered to the [Deliveries](./deliveries) folder following the [process](./delivereis/process.md) described therein.
+   1. Milestones are to be delivered to the [Deliveries](./deliveries) folder following the [process](./delivereis/README.md) described therein.
 
 :warning: Accepted grant applications can be amended at any time. However, this **necessitates a reevaluation by the committee**. If your application has been accepted and, during development, you find that your project significantly deviates from the original specification, please open a new pull request that modifies the existing application.
 
