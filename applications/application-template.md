@@ -2,16 +2,16 @@
 
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
 >
-> See the [Grants Program Process](https://github.com/OAK-Foundation/Grants-Program/#pencil-process) on how to submit a proposal.
+> See the [Grants Program Process](https://github.com/OAK-Foundation/Grants-Program#process) on how to submit a proposal.
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BTC, Ethereum (USDT/DAI) or Karura (kUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-* **[Level](https://github.com/OAK-Foundation/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3 
+* **Project Name:** Name of your project (e.g. Auto-compound Dashboard)
+* **Team Name:** Legal name of your team (e.g. Iron Man)
+* **Payment Address:** Ethereum ERC20 USDC or Turing Native Token (TUR) wallet address. Please also specify the currency. (e.g. 0xb610... (USDC))
+* **[Level](https://github.com/OAK-Foundation/Grants-Program#levels):** 1, 2 or 3 
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
-## Project Overview :page_facing_up:
+## Project Overview
 
 If this application is in response to an Proposal, please indicate this on the first line of this section.
 
@@ -40,16 +40,16 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 
-Help us locate your project in the OAK Network or Turing Network landscape and what problems it tries to solve by answering each of these questions:
+Help us locate your project in OAK Network or Turing Network landscape and what problems it tries to solve by answering each of these questions:
 
 * Where and how does your project fit into the ecosystem?
 * Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's user base, yourself)?
 * What need(s) does your project meet?
-* Are there any other projects similar to yours in the OAK Network or Turing Network ecosystem?
+* Are there any other projects similar to yours in OAK Network or Turing Network ecosystem?
   * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
-## Team :busts_in_silhouette:
+## Team 
 
 ### Team members
 
@@ -71,7 +71,7 @@ Help us locate your project in the OAK Network or Turing Network landscape and w
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+If anyone on your team has applied for a grant at OAK Network previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
 
@@ -89,17 +89,17 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 * https://www.linkedin.com/<person_1>
 * https://www.linkedin.com/<person_2>
 
-## Development Status :open_book:
+## Development Status 
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 * links to improvement proposals or [Proposals](https://github.com/OAK-Foundation/Grants-Program/tree/master/proposals) (requests for proposal),
 * academic publications relevant to the problem,
 * links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-* references to conversations you might have had related to this project with anyone from the Web3 Foundation,
+* references to conversations you might have had related to this project with anyone from OAK Network,
 * previous interface iterations, such as mock-ups and wireframes.
 
-## Development Roadmap :nut_and_bolt:
+## Development Roadmap 
 
 This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe __the functionality we should expect in as much detail as possible__, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
@@ -160,9 +160,9 @@ Please include here
 * the team's long-term plans and intentions in relation to it.
 
 
-## Additional Information :heavy_plus_sign:
+## Additional Information 
 
-**How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** OAK Network Website / Medium / Twitter / Discord / Announcement by another team / personal recommendation / etc.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
