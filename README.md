@@ -4,25 +4,25 @@
   <img src="media/images/oak-grants-banner.jpg" style="width:1200px";>
 </p>
 
-- [:wave: Introduction](#wave-introduction)
+- [Introduction](#introduction)
   - [Guidelines](#guidelines)
   - [Project ideas](#project-ideas)
   - [Support](#support)
-- [:level\_slider: Levels](#level_slider-levels)
+- [Levels](#levels)
   - [Level 1 (= InstaGrants) :hatching\_chick:](#level-1--instagrants-hatching_chick)
   - [Level 2 :baby\_chick:](#level-2-baby_chick)
   - [Level 3 :rooster:](#level-3-rooster)
-- [:pencil: Process](#pencil-process)
-- [:mailbox\_with\_mail: Proposal Suggestions](#mailbox_with_mail-proposal-suggestions)
+- [Process](#process)
+- [Proposal Suggestions](#proposal-suggestions)
 - [Maintenance Grants](#maintenance-grants)
-- [:bulb: Help](#bulb-help)
+- [Help](#help)
   - [Documentation](#documentation)
   - [Community](#community)
-- [:rocket: Alternative Funding Sources](#rocket-alternative-funding-sources)
+- [Alternative Funding Sources](#alternative-funding-sources)
   - [Treasury](#treasury)
   - [Hackathons](#hackathons)
 
-## :wave: Introduction
+## Introduction
 
 As part of our commitment to promoting the OAK Network ecosystem, we offer comprehensive grants programs focused on funding dApp development and research efforts related to **OAK Network and Turing Network**. For more information about the Grants Program, please visit the page of [Competitions and Grants](https://oak.tech/community/grants/) on our website.
 
@@ -67,7 +67,7 @@ The scope of our Grants Programs consists of funding and feedback on delivered m
 
 For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
 
-## :level_slider: Levels
+## Levels
 
 The OAK Network Grants Program offers different grant levels to help you best depending on your current stage.
 
@@ -89,7 +89,7 @@ The OAK Network Grants Program offers different grant levels to help you best de
 - **Requirements:** Pitch call with the OAK team, and Council approval) 
 - **Benefits:** All of the above + VC introductions
 
-## :pencil: Process
+## Process
 
 > **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). Payment is made in USDC, TUR and OAK. 
 
@@ -115,7 +115,7 @@ The OAK Network Grants Program offers different grant levels to help you best de
 
 Additionally, we try to enforce the [code of conduct](CODE_OF_CONDUCT.md) and based on this may [block users](https://github.blog/2016-04-04-organizations-can-now-block-abusive-users/).
 
-## :mailbox_with_mail: Proposal Suggestions
+## Proposal Suggestions
 
 If you think that we should support the development of certain tools or projects (related to **OAK Network or Turing Network**), feel free to submit an Proposal suggestion using the process described below. We are particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and, if we believe it’s useful, will create a Proposal based on your idea and try to find teams to work on it.
 
@@ -147,7 +147,7 @@ Please bear in mind that the Grants Committee might be more strict in accepting 
 
 Note: the 1-month timeframe is just a guideline. If you find it unsuitable for you or the chosen project for any reason, feel free to adjust as seen fit and point this out in your application.
 
-## :bulb: Help
+## Help
 
 ### Documentation
 * [Website](https://oak.tech/)
@@ -158,7 +158,7 @@ Note: the 1-month timeframe is just a guideline. If you find it unsuitable for y
 * Follow us on [Twitter](https://twitter.com/oak_network) or [LinkedIn](https://www.linkedin.com/company/oak-blockchain/)
 * Subscribe to [Medium Newsletter](https://medium.com/oak-blockchain)
 
-## :rocket: Alternative Funding Sources
+## Alternative Funding Sources
 
 Some funding sources might be more and some less suitable for your project throughout its various stages. We encourage you to explore alternative funding options listed below. Please note, however, that you should not seek to fund the **same scope of work** from multiple sources and that any team found doing so will have its OAK Network support terminated.
 
@@ -176,6 +176,6 @@ From time to time, OAK Network organizes hackathons (see [oak.tech/community/gra
 
 The best way to find out about upcoming hackathons is by following OAK Network on the various social channels, such as [Twitter](https://twitter.com/oak_network) or [LinkedIn](https://www.linkedin.com/company/oak-blockchain/).
 
-## :information_source: License<!-- omit in toc -->
+## License<!-- omit in toc -->
 
 [Apache License 2.0](LICENSE) © OAK Network
