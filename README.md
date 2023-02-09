@@ -15,7 +15,7 @@
 - [Process](#process)
 - [Proposal Suggestions](#proposal-suggestions)
 - [Maintenance Grants](#maintenance-grants)
-- [Help](#help)
+- [Additional Resources](#additional-resources)
   - [Documentation](#documentation)
   - [Community](#community)
 - [Alternative Funding Sources](#alternative-funding-sources)
@@ -147,7 +147,7 @@ Please bear in mind that the Grants Committee might be more strict in accepting 
 
 Note: the 1-month timeframe is just a guideline. If you find it unsuitable for you or the chosen project for any reason, feel free to adjust as seen fit and point this out in your application.
 
-## Help
+## Additional Resources
 
 ### Documentation
 * [Website](https://oak.tech/)
