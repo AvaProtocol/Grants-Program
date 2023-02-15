@@ -2,7 +2,7 @@
 
 * **Project Name:** YieldBay Auto-Compounding Microsite
 * **Team Name:** YieldBay
-* **Payment Address:** 69eATnT5aWwv3jKn8Tqvjn1gomiHCSTzC4pJedrtnXMY3Wi6 (TUR)
+* **Payment Address:** 69eATnT5aWwv3jKn8Tqvjn1gomiHCSTzC4pJedrtnXMY3Wi6 (TUR) & findsignalstudio.eth (ERC-20)
 * **[Level](https://github.com/OAK-Foundation/Grants-Program#levels):** 2
 
 ## Project Overview
@@ -85,7 +85,7 @@ The project will start development once the grant is approved, as discussed with
 
 * **Total Estimated Duration:** 1 Month
 * **Full-Time Equivalent (FTE):**  6
-* **Total Costs:** $5K TUR
+* **Total Costs:** $10K ($5K TUR & $5K USD)
 
 ## Additional Information 
 
