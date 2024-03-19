@@ -106,7 +106,7 @@ jobs:
         uses: thollander/actions-comment-pull-request@1.0.1
         with:
           message: > 
-            Congratulations and welcome to the Web3 Foundation Grants Program! Please refer to our
+            Congratulations and welcome to the OAK Network Grants Program! Please refer to our
             [Deliveries](https://github.com/OAK-Foundation/Grants-Program/deliveries) for
             instructions on how to submit milestones and invoices, our
             [FAQ](https://github.com/OAK-Foundation/Grants-Program/blob/master/docs/faq.md) for frequently asked questions and the
@@ -117,7 +117,7 @@ jobs:
             for all communications related to the grant or make them known to the right person in your organisation.
             In particular, please <b>don't announce the grant publicly before at least the first milestone of your
             project has been approved.</b> At that point or shortly before, you can get in touch with us at
-            grantsPR@web3.foundation and we'll be happy to collaborate on an announcement about the work you’re doing.<br/><br/>
+            developers@oak.tech and we'll be happy to collaborate on an announcement about the work you’re doing.<br/><br/>
             Lastly, please remember to let us know in case you run into any delays or deviate from the deliverables
             in your application. You can either leave a comment here or directly request to amend your application
             via PR. We wish you luck with your project! :rocket:
