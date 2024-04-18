@@ -16,7 +16,7 @@ We ask for 12000 USDT for m1 on Polkadot Assethub to the BagpipesOrg address.
 
 | nr| Name         | Delivery notes:     | Description|
 |---|--------------|-----------|------------|
-| 0   | Documentation | Find documentation here: https://xcmsend.github.io/teleport/turing.html | Documentation        |
+| 0   | Documentation | Find documentation here: [https://docs.bagpipes.io/docs/xtransfer/turing](https://docs.bagpipes.io/docs/xtransfer/turing) | Documentation        |
 | 1   | XCM transfers |  XCM Asset directions: Turing > Moonriver, Moonriver > Turing, Turing > MangataX  | Functionality for sending and receiving XCM asset transfer on Turing. |
 |2	|Asset support|We support Turing asset types plus TUR on Moonriver and Tur on MangataX|Support on-chain assets metadata, balances and types with Turing's assetRegistry. |
 |3	|UI customization|We now support Turing chain nodes, you can run it locally or view it online here: https://app.xcmsend.com |UI Turing support, logos, styles etc|
@@ -27,7 +27,7 @@ We ask for 12000 USDT for m1 on Polkadot Assethub to the BagpipesOrg address.
 ### Review tips:  
 
 ##### Documentation: 
-https://xcmsend.github.io/teleport/turing.html 
+[https://docs.bagpipes.io/docs/xtransfer/turing](https://docs.bagpipes.io/docs/xtransfer/turing)   
 
 
 #### Run unit tests on a linux/mac os environment: 
