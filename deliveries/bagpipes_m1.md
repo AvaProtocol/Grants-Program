@@ -66,5 +66,5 @@ Read docs: [https://docs.bagpipes.io/docs/xtransfer/turing#use-turing-with-our-a
 #### Video how-to:   
 
 [Turing > Moonriver XCM](https://drive.google.com/file/d/1-dr8exA8TqwbuhJlqnkFnS-RkBGOm8YN/view?usp=drive_link)     
-[Moonriver > Turing XCM](https://drive.google.com/file/d/1Jrl5DQzu_2t4iuBKVu_hyQqzdJ8HeL9B/view?usp=drive_link)   
-
+[Moonriver > Turing XCM](https://drive.google.com/file/d/1Jrl5DQzu_2t4iuBKVu_hyQqzdJ8HeL9B/view?usp=drive_link)     
+[Turing > MangataX XCM](https://drive.google.com/file/d/11GEzdcWewIDYSl7lKP80HCIV_kR3YOzD/view?usp=sharing)
