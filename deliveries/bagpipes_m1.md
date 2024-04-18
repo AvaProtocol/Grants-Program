@@ -21,7 +21,7 @@ We ask for 12000 USDT for m1 on Polkadot Assethub to the BagpipesOrg address.
 |2	|Asset support|We support Turing asset types plus TUR on Moonriver and Tur on MangataX|Support on-chain assets metadata, balances and types with Turing's assetRegistry. |
 |3	|UI customization|We now support Turing chain nodes, you can run it locally or view it online here: https://app.xcmsend.com |UI Turing support, logos, styles etc|
 |4	|Tests|Run Turing test by cloning the github.com/xcmsend/app.git repo and running: npm install && npm run test |Unit tests for UI and API |
-|5	|API integration|Support for turing xcm transaction drafting in pr: https://github.com/XcmSend/api/pull/35 , Read docs here: https://xcmsend.github.io/teleport/turing.html#use-turing-with-our-api |support in the JSON RPC api: https://github.com/XcmSend/api|
+|5	|API integration|Support for turing xcm transaction drafting in pr: https://github.com/XcmSend/api/pull/35 , Read docs here: https://docs.bagpipes.io/docs/xtransfer/turing#use-turing-with-our-api |support in the JSON RPC api: https://github.com/XcmSend/api|
 |6	|XCM HRMP Checks|Kusama parachains hrmp ingress and egress checks in main repo. |Integrating filtering of what chains a user can perform xcm transfers from based on open HRMP channels|
 
 ### Review tips:  
@@ -60,7 +60,7 @@ npm install -f
 npm run buildme  
 npm run api
 ```
-Read docs: https://xcmsend.github.io/teleport/turing.html#use-turing-with-our-api 
+Read docs: [https://docs.bagpipes.io/docs/xtransfer/turing#use-turing-with-our-api](https://docs.bagpipes.io/docs/xtransfer/turing#use-turing-with-our-api)
 
 
 #### Video how-to:   
