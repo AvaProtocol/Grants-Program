@@ -1,7 +1,7 @@
 
 # OAK Network Grant Proposal
 
-* **Project Name:** Limit Orders
+* **Project Name:** Cross-Chain DEX Limit Orders
 * **Team Name:** C3 Labs
 * **Payment Address:** 0xFC676C7836278577a50a4aB540f4Ff7Da90D15C7 (USDC), 5HTursw8Y2cevzj2PVDAkSF6Lv5snEtiU8fyNbpZFViMTf4b (substrate address to be used for OAK)
 * **[Level](https://github.com/OAK-Foundation/Grants-Program#levels):** 2 
