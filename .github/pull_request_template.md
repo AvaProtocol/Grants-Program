@@ -7,7 +7,7 @@
 ### For which grant [level](https://github.com/OAK-Foundation/Grants-Program#level_slider-levels) are you applying? 
 - [ ] **Level 1**:  Up to $10,000
 - [ ] **Level 2**:  Up to $50,000
-- [ ] **Level 3**:  Up to $250,000, OAK Network Council approval required
+- [ ] **Level 3**:  Up to $250,000, Ava Protocol Council approval required
 
 ### Application Checklist
 

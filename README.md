@@ -1,7 +1,7 @@
-# OAK Network Grants Program<!-- omit in toc -->
+# Ava Protocol Grants Program<!-- omit in toc -->
 
 <p align="center">
-  <img src="media/images/oak-grants-banner.jpg" style="width:1200px";>
+  <img src="media/images/repo-banner.png" style="width:1200px";>
 </p>
 
 - [Introduction](#introduction)
@@ -24,7 +24,7 @@
 
 ## Introduction
 
-As part of our commitment to promoting the OAK Network ecosystem, we offer comprehensive grants programs focused on funding dApp development and research efforts related to **OAK Network and Turing Network**. For more information about the Grants Program, please visit the page of [Competitions and Grants](https://oak.tech/community/grants/) on our website.
+As part of our commitment to promoting the Ava Protocol ecosystem, we offer comprehensive grants programs focused on funding dApp development and research efforts related to **Ava Protocol and Turing Network**. For more information about the Grants Program, please visit the page of [Competitions and Grants](https://avaprotocol.org/community/grants/) on our website.
 
 ### Guidelines
 
@@ -63,13 +63,13 @@ If you have a **good concept of the technical challenges** that your idea entail
 
 ### Support
 
-The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. You can find general documentation and more information on Substrate on the [OAK Documentations](https://docs.oak.tech/docs/developer-guide-overview/), and we encourage you to join our [Discord](https://discord.com/invite/7W9UDvsbwh) in order to get help with specific issues or to stay up to date with the most recent developments.
+The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. You can find general documentation and more information on Substrate on the [Ava Protocol Documentations](https://docs.avaprotocol.org/docs/developer-guide-overview/), and we encourage you to join our [Discord](https://discord.com/invite/7W9UDvsbwh) in order to get help with specific issues or to stay up to date with the most recent developments.
 
 For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
 
 ## Levels
 
-The OAK Network Grants Program offers different grant levels to help you best depending on your current stage.
+The Ava Protocol Grants Program offers different grant levels to help you best depending on your current stage.
 
 ### Level 1 (= InstaGrants) :hatching_chick:
   - **Target:** Individuals & small teams
@@ -86,7 +86,7 @@ The OAK Network Grants Program offers different grant levels to help you best de
 
 - **Target:** Companies/foundations with a proven track record 
 - **Amount:** Up to $250,000
-- **Requirements:** Pitch call with the OAK team, and Council approval) 
+- **Requirements:** Pitch call with the Ava Protocol team, and Council approval) 
 - **Benefits:** All of the above + VC introductions
 
 ## Process
@@ -103,7 +103,7 @@ The OAK Network Grants Program offers different grant levels to help you best de
    7. Sign off on the [terms and conditions](docs/T&Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment.
 2. 
 3. **Application Review**
-   1. The [OAK Grants Committee](#oak-grants-committee) will review, issue comments and request changes on the pull request.
+   1. The [Ava Protocol Grants Committee](#ava-protocol-grants-committee) will review, issue comments and request changes on the pull request.
    2. Clarifications and amendments made in the comments **need to be included in the application**. You may address feedback by directly modifying your application and leaving a comment once you're done. Generally, if you don't reply within 2 weeks, the application will be closed due to inactivity, but you're always free to reopen it as long as it hasn't been rejected.
    3. When all requested changes are addressed and the terms and conditions have been signed, someone will mark your application as `ready for review` and share it internally with the rest of the committee.
    4. The application will be accepted and merged as soon as it receives the required number of approvals (see [levels](#level_slider-levels)), or closed after two weeks of inactivity. Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
@@ -117,7 +117,7 @@ Additionally, we try to enforce the [code of conduct](CODE_OF_CONDUCT.md) and ba
 
 ## Proposal Suggestions
 
-If you think that we should support the development of certain tools or projects (related to **OAK Network or Turing Network**), feel free to submit an Proposal suggestion using the process described below. We are particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and, if we believe it’s useful, will create a Proposal based on your idea and try to find teams to work on it.
+If you think that we should support the development of certain tools or projects (related to **Ava Protocol or Turing Network**), feel free to submit an Proposal suggestion using the process described below. We are particularly interested in supporting projects that could be leveraged by other builders in our ecosystem. We will review your proposal and, if we believe it’s useful, will create a Proposal based on your idea and try to find teams to work on it.
 
 **Instructions for submitting a Proposal suggestion:**
 
@@ -132,7 +132,7 @@ If you have an idea for a project but lack the technical background to create a 
 
 ## Maintenance Grants
 
-Maintenance Grants are yet another idea to get involved with the OAK community. If you are a user of an open-source library that has gone out of date, or you simply want to work on new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
+Maintenance Grants are yet another idea to get involved with the Ava Protocol community. If you are a user of an open-source library that has gone out of date, or you simply want to work on new features/fix bugs in these repos, we can support your contributions via a grant. We are happy to award rolling grants on a monthly basis, as long as the work done within each time period is performed to a quality standard deemed satisfactory by the grant evaluators.
 
 The process of applying for a Maintenance Grant is similar to what was already outlined above, but instead of defining very detailed deliverables for each milestone upfront, we will ask you to specify, where possible:
 - The repo(s) that need maintenance
@@ -150,8 +150,8 @@ Note: the 1-month timeframe is just a guideline. If you find it unsuitable for y
 ## Help
 
 ### Documentation
-* [Website](https://oak.tech/)
-* [Documentation](https://docs.oak.tech/)
+* [Website](https://avaprotocol.org/)
+* [Documentation](https://docs.avaprotocol.org/)
 ### Community
 * General discussion: [Telegram](https://t.me/OAK_Announcements)
 * Technical discussion: [Discord](https://discord.gg/7W9UDvsbwh)
@@ -160,11 +160,11 @@ Note: the 1-month timeframe is just a guideline. If you find it unsuitable for y
 
 ## Alternative Funding Sources
 
-Some funding sources might be more and some less suitable for your project throughout its various stages. We encourage you to explore alternative funding options listed below. Please note, however, that you should not seek to fund the **same scope of work** from multiple sources and that any team found doing so will have its OAK Network support terminated.
+Some funding sources might be more and some less suitable for your project throughout its various stages. We encourage you to explore alternative funding options listed below. Please note, however, that you should not seek to fund the **same scope of work** from multiple sources and that any team found doing so will have its Ava Protocol support terminated.
 
 ### Treasury
 
-The treasury is a pot of on-chain funds collected through transaction fees, slashing, staking inefficiencies, etc. The funds held in the treasury can be spent on spending proposals. Both Turing Network and OAK Network offer everyone the opportunity to apply for funding via the treasury. See:
+The treasury is a pot of on-chain funds collected through transaction fees, slashing, staking inefficiencies, etc. The funds held in the treasury can be spent on spending proposals. Both Turing Network and Ava Protocol offer everyone the opportunity to apply for funding via the treasury. See:
 
 - [Polkadot’s Treasury Wiki](https://wiki.polkadot.network/docs/en/learn-treasury)
 - [Turing Network Governance Update Nov 22’](https://medium.com/oak-blockchain/turing-network-governance-update-69e51b3d9d4f)
@@ -172,10 +172,10 @@ The treasury is a pot of on-chain funds collected through transaction fees, slas
 
 ### Hackathons
 
-From time to time, OAK Network organizes hackathons (see [oak.tech/community/grants](https://oak.tech/community/grants/)) to promote quick prototyping of OAK related ideas. We highly encourage you to participate in these hackathons. Bear in mind, however, that you cannot submit the **same work** for a hackathon and the Grants Program. If you have worked or are planning to work on a project for a hackathon, your grant application should either propose a different set of features or otherwise build on top of your hackathon work. The same applies in reverse, although that will likely be less common.
+From time to time, Ava Protocol organizes hackathons (see [avaprotocol.org/community/grants](https://avaprotocol.org/community/grants/)) to promote quick prototyping of Ava Protocol related ideas. We highly encourage you to participate in these hackathons. Bear in mind, however, that you cannot submit the **same work** for a hackathon and the Grants Program. If you have worked or are planning to work on a project for a hackathon, your grant application should either propose a different set of features or otherwise build on top of your hackathon work. The same applies in reverse, although that will likely be less common.
 
-The best way to find out about upcoming hackathons is by following OAK Network on the various social channels, such as [Twitter](https://twitter.com/oak_network) or [LinkedIn](https://www.linkedin.com/company/oak-blockchain/).
+The best way to find out about upcoming hackathons is by following Ava Protocol on the various social channels, such as [Twitter](https://twitter.com/oak_network) or [LinkedIn](https://www.linkedin.com/company/oak-blockchain/).
 
 ## License<!-- omit in toc -->
 
-[Apache License 2.0](LICENSE) © OAK Network
+[Apache License 2.0](LICENSE) © Ava Protocol
