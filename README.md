@@ -91,13 +91,13 @@ The Ava Protocol Grants Program offers different grant levels to help you best d
 
 ## Process
 
-> **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). Payment is made in USDC, TUR and OAK. 
+> **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). Payment is made in USDC and AP. 
 
 1. **Application**
-   1. [Fork](https://github.com/OAK-Foundation/Grants-Program/fork) this repository.
+   1. [Fork](https://github.com/AvaProtocol/Grants-Program/fork) this repository.
    2. In the newly created fork, create a new file and copy the content of the [Application Template](applications/application-template.md) over. Please **DO NOT modify the template file directly**.
    3. Name the new file after your project: `project_name.md`.
-   4. Fill out the template with the details of your project. The more information you provide, the faster the review. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/OAK-Foundation/Grants-Program/blob/master/applications/project_aurras_mvp_phase_1.md), [2](https://github.com/OAK-Foundation/Grants-Program/blob/master/applications/project_bodhi.md), [3](https://github.com/OAK-Foundation/Grants-Program/blob/master/applications/pontem.md), [4](https://github.com/OAK-Foundation/Grants-Program/blob/master/applications/spartan_poc_consensus_module.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
+   4. Fill out the template with the details of your project. The more information you provide, the faster the review. To get an idea of what a strong application looks like, you can have a look at the following examples:  [1](https://github.com/AvaProtocol/Grants-Program/blob/master/applications/project_aurras_mvp_phase_1.md), [2](https://github.com/AvaProtocol/Grants-Program/blob/master/applications/project_bodhi.md), [3](https://github.com/AvaProtocol/Grants-Program/blob/master/applications/pontem.md), [4](https://github.com/AvaProtocol/Grants-Program/blob/master/applications/spartan_poc_consensus_module.md). Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
    5. Once you're done, create a pull request, or PR for short. The pull request should **only contain one new file** which is your application created from the template.
    6. The Pull Request will contain a checklist. You should leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
    7. Sign off on the [terms and conditions](docs/T&Cs.md) presented by the [CLA assistant](https://github.com/claassistantio) bot as a Contributor License Agreement. You might need to reload the pull request to see its comment.
@@ -121,14 +121,14 @@ If you think that we should support the development of certain tools or projects
 
 **Instructions for submitting a Proposal suggestion:**
 
-1. [Fork](https://github.com/OAK-Foundation/Grants-Program/fork) this repository.
+1. [Fork](https://github.com/AvaProtocol/Grants-Program/fork) this repository.
 2. In the newly created fork, create a new file under [proposals](./proposals) and copy the content of the suggestion template ([`proposals/suggestion-template.md`](proposals/suggestion-template.md)) over. Please **DO NOT modify the template file directly**.
 3. Name the file after your idea: `proposal_name.md`.
 4. Fill out the template with the proposal details. Please include as many details as possible.
 5. Once you're done, create a pull request. The pull request should **only contain one new file**, that is the proposal file you just created.
 6. You will see the same pull request template as for creating an application. Please replace it with [proposal_pr_template.md](.github/PULL_REQUEST_TEMPLATE/proposal_pr_template.md).
 
-If you have an idea for a project but lack the technical background to create a detailed outline, you can open an [issue](https://github.com/OAK-Foundation/Grants-Program/issues/new) instead. However, your idea will have better chances of being implemented if you can provide a project outline such that it can be picked up straight away by a capable team.
+If you have an idea for a project but lack the technical background to create a detailed outline, you can open an [issue](https://github.com/AvaProtocol/Grants-Program/issues/new) instead. However, your idea will have better chances of being implemented if you can provide a project outline such that it can be picked up straight away by a capable team.
 
 ## Maintenance Grants
 

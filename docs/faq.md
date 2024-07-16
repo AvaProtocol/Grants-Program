@@ -54,7 +54,7 @@
 <details>
   <summary><b>My application was rejected. Do you have any recommendations on where to go from here?</b></summary>
 
-  We usually give reasons why an application was rejected. We always try to be constructive and work with you towards an application that is beneficial to all parties. If we find no common ground, please have a look at [this section in our Grants Program readme](https://github.com/OAK-Foundation/Grants-Program#rocket-alternative-funding-sources) for a list of alternative funding opportunities.
+  We usually give reasons why an application was rejected. We always try to be constructive and work with you towards an application that is beneficial to all parties. If we find no common ground, please have a look at [this section in our Grants Program readme](https://github.com/AvaProtocol/Grants-Program#rocket-alternative-funding-sources) for a list of alternative funding opportunities.
 </details>
 
 <details>
@@ -114,7 +114,7 @@
 <details>
   <summary><b>Can you help me advertise my project?</b></summary>
 
-  The Ava Protocol does not provide PR services to its grantees. However, once per month we co-promote announcements from grants that have delivered a milestone on [Twitter](https://twitter.com/oak_network). Note that the milestone needs to have been accepted prior to the announcement. Lastly, please observe our [announcement guidelines](https://github.com/OAK-Foundation/Grants-Program/blob/master/docs/announcement-guidelines.md) for all grant-related communications. This document also lists an email address through which you can get in touch with our PR team for feedback and in case you have specific questions.
+  The Ava Protocol does not provide PR services to its grantees. However, once per month we co-promote announcements from grants that have delivered a milestone on [Twitter](https://twitter.com/oak_network). Note that the milestone needs to have been accepted prior to the announcement. Lastly, please observe our [announcement guidelines](https://github.com/AvaProtocol/Grants-Program/blob/master/docs/announcement-guidelines.md) for all grant-related communications. This document also lists an email address through which you can get in touch with our PR team for feedback and in case you have specific questions.
 </details>
 
 <details>

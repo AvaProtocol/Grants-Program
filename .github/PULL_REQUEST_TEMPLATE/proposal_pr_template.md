@@ -14,5 +14,5 @@
 
 ## Checklist
 
-- [ ] I have checked the [open](https://github.com/OAK-Foundation/Grants-Program/tree/master/proposals) and [implemented](https://github.com/OAK-Foundation/Grants-Program/tree/master/proposals/implemented) Proposals to make sure this is not a duplicate.
-- [ ] I have read and followed the [Proposal Suggestion instructions](https://github.com/OAK-Foundation/Grants-Program#mailbox_with_mail-request-for-proposals-Proposal-suggestions).
+- [ ] I have checked the [open](https://github.com/AvaProtocol/Grants-Program/tree/master/proposals) and [implemented](https://github.com/AvaProtocol/Grants-Program/tree/master/proposals/implemented) Proposals to make sure this is not a duplicate.
+- [ ] I have read and followed the [Proposal Suggestion instructions](https://github.com/AvaProtocol/Grants-Program#mailbox_with_mail-request-for-proposals-Proposal-suggestions).

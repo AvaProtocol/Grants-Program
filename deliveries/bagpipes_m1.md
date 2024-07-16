@@ -4,7 +4,7 @@ Bagpipes
 ## Milestone nr: m1
 
 ## Grant application link:
-[Grants-Program/applications/bagpipes_integration.md](https://github.com/OAK-Foundation/Grants-Program/blob/main/applications/bagpipes_integration.md)
+[Grants-Program/applications/bagpipes_integration.md](https://github.com/AvaProtocol/Grants-Program/blob/main/applications/bagpipes_integration.md)
 
 ### Payment details:   
 Bagpipes Org address: [15iN8aQnPuX4vjcovenu15EtnYfcwbtiXjeKGRN3KkkzNNtt](https://assethub-polkadot.subscan.io/account/15iN8aQnPuX4vjcovenu15EtnYfcwbtiXjeKGRN3KkkzNNtt)    
