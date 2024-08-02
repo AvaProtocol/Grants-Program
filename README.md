@@ -24,7 +24,7 @@
 
 ## Introduction
 
-As part of our commitment to promoting the Ava Protocol ecosystem, we offer comprehensive grants programs focused on funding dApp development and research efforts related to **Ava Protocol and Turing Network**. For more information about the Grants Program, please visit the page of [Competitions and Grants](https://avaprotocol.org/community/grants/) on our website.
+As part of our commitment to promoting the Ava Protocol ecosystem, we offer comprehensive grants programs focused on funding dApp development and research efforts related to **Ava Protocol and Turing Network**. For more information about the Grants Program, please visit the page of [Competitions and Grants](https://avaprotocol.org/community) on our website.
 
 ### Guidelines
 
@@ -172,7 +172,7 @@ The treasury is a pot of on-chain funds collected through transaction fees, slas
 
 ### Hackathons
 
-From time to time, Ava Protocol organizes hackathons (see [avaprotocol.org/community/grants](https://avaprotocol.org/community/grants/)) to promote quick prototyping of Ava Protocol related ideas. We highly encourage you to participate in these hackathons. Bear in mind, however, that you cannot submit the **same work** for a hackathon and the Grants Program. If you have worked or are planning to work on a project for a hackathon, your grant application should either propose a different set of features or otherwise build on top of your hackathon work. The same applies in reverse, although that will likely be less common.
+From time to time, Ava Protocol organizes hackathons (see [avaprotocol.org/community](https://avaprotocol.org/community)) to promote quick prototyping of Ava Protocol related ideas. We highly encourage you to participate in these hackathons. Bear in mind, however, that you cannot submit the **same work** for a hackathon and the Grants Program. If you have worked or are planning to work on a project for a hackathon, your grant application should either propose a different set of features or otherwise build on top of your hackathon work. The same applies in reverse, although that will likely be less common.
 
 The best way to find out about upcoming hackathons is by following Ava Protocol on the various social channels, such as [Twitter](https://twitter.com/oak_network) or [LinkedIn](https://www.linkedin.com/company/oak-blockchain/).
 
