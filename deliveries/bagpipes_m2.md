@@ -31,8 +31,22 @@ Bagpipes USDC (Ethereum): 0x13d3a4dc4eddc79e5f277d4633834ba6ada15a7f
 
 ### Review tips:  
 
-##### Documentation: 
+#### Documentation: 
 [https://docs.bagpipes.io/docs/nodes/chainTx](https://docs.bagpipes.io/docs/nodes/chainTx)   
+
+
+#### Docker:
+
+##### Build
+`docker build -t xcmsend:v0.3.1 .`
+
+#### Run 
+`docker pull xcmsend/xcmsend:v0.3.1`
+
+[docker image](https://hub.docker.com/layers/xcmsend/xcmsend/0.3.1/images/sha256-f4aa5bf1fa46b00dd021c1f87c23a402be93ec2a4baacad71b3f06236b13adbc?context=explore)
+
+
+
 
 
 
