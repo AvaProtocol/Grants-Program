@@ -24,7 +24,7 @@ Bagpipes USDC (Ethereum): 0x13d3a4dc4eddc79e5f277d4633834ba6ada15a7f
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0. | Documentation | Public documentation [https://docs.bagpipes.io/docs/nodes/chainTx](https://docs.bagpipes.io/docs/nodes/chainTx)  | |
-| 1. | automationPrice and automationTime pallet integration | **Overdelivery, we support every pallet in Turing and Oak. This was really the only way to do it, because the pallets were much more complex than initially imagined, with depply nesting structures, particularly used with XCM.** | 
+| 1. | automationPrice and automationTime pallet integration | **Overdelivery, we support every pallet in Turing and Oak. This was really the only way to do it, because the pallets were much more complex than initially imagined, with depply nesting structures, particularly used with XCM.** here is bagpipe template for [automationTime](https://alpha.bagpipes.io/#/create/?diagramData=XEtWDwnDY) in a chainTx node.   | 
 | 2. | Querying | Enable users to query the pallet storage.   |
 | 3. | Tests | Tests for API and UI |
 | 4. | OAK dashboard  | A home area for oak paracahin on bagpipes, containing: A growing list of oak templates; How tos. [https://alpha.bagpipes.io/#/pages/Ava](https://alpha.bagpipes.io/#/pages/Ava) |  
@@ -36,6 +36,8 @@ Bagpipes USDC (Ethereum): 0x13d3a4dc4eddc79e5f277d4633834ba6ada15a7f
 
 
 #### Docker:
+
+If you want to test this release in your local or self-hosted environment, you can run this docker below.
 
 ##### Build
 `docker build -t xcmsend:v0.3.1 .`
